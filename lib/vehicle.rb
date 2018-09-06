@@ -6,6 +6,6 @@ class Vehicle
     @number = wheel_number
   end
   
-  def 
+
 
 end
